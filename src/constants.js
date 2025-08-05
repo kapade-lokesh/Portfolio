@@ -34,7 +34,7 @@ import postgreLogo from "./assets/tech_logo/postgre.png";
 import csharpLogo from "./assets/tech_logo/csharp.png";
 
 // Experience Section Logo's
-import technoLogo from "./assets/company_logo/techno.png";
+import technoLogo from "./assets/company_logo/Techno.png";
 
 // Education Section Logo's
 import vpsLogo from "./assets/education_logo/vps_logo.png";
